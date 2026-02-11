@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 My latest project: Player Counter Pelican Plugin<br>🌱 I’m currently learning Java and PHP<br>💬 Let's chat on discord!<br>⚡ I'm not A fox 🦊
+🔭 My latest project: Player Counter Pelican Plugin<br>🌱 I’m currently learning Java and PHP<br>💬 Let's chat on discord!<br>⚡ I'm A fox 🦊
 
 
 ## 🌐 Socials:
